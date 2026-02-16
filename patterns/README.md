@@ -49,7 +49,11 @@ Links to patterns that work alongside this one.
 
 ## Patterns in This Collection
 
+### Memory
 - [Write-First Memory](write-first-memory.md) — Persist before responding
+- [Memory Hygiene](memory-hygiene.md) — Periodically review and prune
+- [Transparent Memory](transparent-memory.md) — Human can inspect memory
+- [Structured Memory](structured-memory.md) — Organize memory by type
 
 ---
 

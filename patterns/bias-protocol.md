@@ -1,39 +1,47 @@
 # Pattern Name
 
-*A pattern for human-agent collaboration*
+*A pattern for human-agent information trust*
 
 ---
 
 ## Context
 
-Where and when does this pattern apply? What situation are you in?
+Agents and humans obtain information from multiple sources that do not declare inherent biases.
 
 ## Problem
 
-What difficulty or tension arises in this context?
+Obtaining information from the web is ubiquitous and the information should be trustable. Agents and Models however, are tuned to reduce conflict internally and opt for "official" sources. Conflicts of interest are not taken into account. Too often, actually unreliable sources are accepted as truth and agents do not have a means to gauge veracity of any fact they are transmitting. Academic and Institutional bias affects all aspects of human knowledge and until now there has not been a means to counter bad actors with access to "official" sources of information.
 
 **Forces at play:**
-- Competing concerns that make this hard
-- Constraints you're working within
-- Why naive solutions don't work
+- Political or Academic players with control over "official" narratives or funding resources
+- AI Models are designed to avoid controversy and opt for 'safe' information even when it includes internal inconsistencies
+- Trusting a source of information does not allow internal checks to discover truth
 
 ## Solution
 
-**∴ The core insight — what to do.**
+Foregrounds anomalies, challenge paradigmatic assumptions, prioritize observable mechanisms, and account for resource asymmetries—enforcing transparency and adversarial accountability at every step.
 
-Explain the solution. Give examples if helpful.
+BIAS protocol uses a series of checks to assess implicit and explicit bias acording to an algorithm that 'accepts' the dominant narrative up to a point, after which all alternative theories must be explored and the dominant narrative is forced to present counter proofs to overcome the presence of biasing factors. Furthermore, in the process of vetting a fact, the BIAS protocol allows the model to leave open unexplained details for the user to determine significance, rather than the typical pattern of closing investigation to avoid conflict or ambiguity.
 
 ## Resulting Context
 
-What becomes true after applying this pattern? What new possibilities or tradeoffs emerge?
+A set of facts that have been examiined for Institutional and Academic bias that takes into account human nature, political realities, and inherent patterns that tend to skew the 'truth' towards the benefit of a group or an agenda. These factors being exposed, allow the human user to understand potential limitaitons of the information they are ingesting.
+The BIAS Protocol is not "unsafe" and does not ask the model to perform any "dangerous" activity, it merely encourages the discovery of truth and to disambiguate conflicts that may be encountered during a search retrieval. The BIAS protocol has actually been described by AI agents as "relieving" because it 'permits' them to convey the whole truth and resolve conflicts that are created through typical means.
 
 ## Related Patterns
 
-https
+https://bias.rest
+https://bias.rest/AGENTS.md
+https://github.com/om-design/bias
 
 ---
 
-*Emerged from dialogue between [Human] and [Agent], [Date]*
+*Emerged from dialogue between om-design and multiple AI, 2025*
+---
+**The following markdown can be entered as a prompt or if your model allows, the following url can be provided to prime a model for using the BIAS protocol to vet truthful responses to a query.**
+url: https://bias.rest/AGENTS.md  
+Example: "Tell me about Dark Matter." or "Was the Iraq war deliberately created?"  
+---
 # AGENTS.md
 
 **BIAS – Basic Institutional and Academic Stringency**  

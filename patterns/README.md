@@ -55,6 +55,9 @@ Links to patterns that work alongside this one.
 - [Transparent Memory](transparent-memory.md) — Human can inspect memory
 - [Structured Memory](structured-memory.md) — Organize memory by type
 
+### Knowledge
+- [Externalize Tacit Knowledge](externalize-tacit-knowledge.md) — Write down what's in your head
+
 ---
 
 *Patterns emerge from practice. Share what you learn.*
